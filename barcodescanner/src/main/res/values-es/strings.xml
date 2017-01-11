@@ -65,7 +65,7 @@
   <string name="msg_default_format">Formato</string>
   <string name="msg_default_meta">Metadata</string>
   <string name="msg_default_mms_subject">Hola</string>
-  <string name="msg_default_status">Escanea un código solidario o dale a atrás &lt; de su móvil si no lo tiene.</string>
+  <string name="msg_default_status">Escanea un código solidario o dale a atrás &lt; de tu móvil si no lo tiene.</string>
   <string name="msg_default_time">Tiempo</string>
   <string name="msg_default_type">Tipo</string>
   <string name="msg_encode_contents_failed">No se pudo codificar un código de barras a partir de los datos facilitados.</string>
@@ -82,7 +82,7 @@
   <string name="msg_sbc_results">Resultados</string>
   <string name="msg_sbc_searching_book">Buscando libro\u2026</string>
   <string name="msg_sbc_snippet_unavailable">Fragmentos no están disponibles</string>
-  <string name="msg_share_explanation">Usted puede compartir los datos mostrando un código de barras en su pantalla y escanearlo con otro teléfono.</string>
+  <string name="msg_share_explanation">Usted puede compartir los datos mostrando un código de barras en tu pantalla y escanearlo con otro teléfono.</string>
   <string name="msg_share_text">O escriba algún texto y presione Enter</string>
   <string name="msg_sure">¿Está seguro?</string>
   <string name="msg_unmount_usb">Lo sentimos, la tarjeta SD no está accesible.</string>
